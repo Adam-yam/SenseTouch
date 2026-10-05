@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="io.github.adam_yam.sensetouch.AssistantRecoveryTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2026-10-05T09:15:32" hostname="53c3fd71b6cb" time="0.025">
+  <properties/>
+  <testcase name="restoresNullAndEmptyAndConfiguredValues" classname="io.github.adam_yam.sensetouch.AssistantRecoveryTest" time="0.018"/>
+  <testcase name="preservesUserChangeWhileRecoveryWasPending" classname="io.github.adam_yam.sensetouch.AssistantRecoveryTest" time="0.001"/>
+  <testcase name="failureReadingOriginalDoesNotCreateJournalOrWrite" classname="io.github.adam_yam.sensetouch.AssistantRecoveryTest" time="0.002"/>
+  <testcase name="repeatedRestoreIsHarmless" classname="io.github.adam_yam.sensetouch.AssistantRecoveryTest" time="0.0"/>
+  <testcase name="partialWriteFailureCanRecover" classname="io.github.adam_yam.sensetouch.AssistantRecoveryTest" time="0.001"/>
+  <testcase name="failedRestoreRetainsJournalForNextInstance" classname="io.github.adam_yam.sensetouch.AssistantRecoveryTest" time="0.001"/>
+  <testcase name="failureReadingCurrentRetainsRecoveryJournal" classname="io.github.adam_yam.sensetouch.AssistantRecoveryTest" time="0.001"/>
+  <testcase name="pendingJournalCannotBeOverwritten" classname="io.github.adam_yam.sensetouch.AssistantRecoveryTest" time="0.0"/>
+  <testcase name="failedJournalNeverChangesSystemSetting" classname="io.github.adam_yam.sensetouch.AssistantRecoveryTest" time="0.001"/>
+  <testcase name="refusesAlreadyTemporaryAssistantWithoutOverwritingIt" classname="io.github.adam_yam.sensetouch.AssistantRecoveryTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,17 @@
+Verifies
+Verified using v1 scheme (JAR signing): false
+Verified using v2 scheme (APK Signature Scheme v2): true
+Verified using v3 scheme (APK Signature Scheme v3): false
+Verified using v3.1 scheme (APK Signature Scheme v3.1): false
+Verified using v4 scheme (APK Signature Scheme v4): false
+Verified for SourceStamp: false
+Number of signers: 1
+Signer #1 certificate DN: CN=SenseTouch, OU=Android, O=Adam, C=KR
+Signer #1 certificate SHA-256 digest: d6f5f4bc9af760812206ba9654a0c9093c2f7ee631adfeb95f84dc7fa8578079
+Signer #1 certificate SHA-1 digest: e54b2cf17a9f22fbb6a549ddf8ee41251df60a28
+Signer #1 certificate MD5 digest: 8cd4c4308d64ba7718b5ebfc0316a266
+Signer #1 key algorithm: RSA
+Signer #1 key size (bits): 3072
+Signer #1 public key SHA-256 digest: f83a7401bb9cac08ae801f1d166895156ef7fc3fa98c4bbcdc624f4ddadfe834
+Signer #1 public key SHA-1 digest: 146d77fd2d47698f7f21a98c79fa2d1adad2c284
+Signer #1 public key MD5 digest: 1103e7f24ca4f89343e4c94fd2d2c961

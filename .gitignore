@@ -1,0 +1,16 @@
+.gradle/
+.idea/
+/local.properties
+/build/
+/app/build/
+*.iml
+.DS_Store
+
+*.jks
+*.keystore
+*.p12
+keystore.properties
+
+release-private/
+*Release-Key-PRIVATE*
+credentials.txt

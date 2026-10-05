@@ -1,0 +1,12 @@
+SenseTouch 1.0.0 (versionCode 10)
+assembleRelease testDebugUnitTest lintRelease: BUILD SUCCESSFUL
+Tests: 15 passed, 0 failures, 0 errors
+Lint: 0 errors, 2 warnings
+Signing: dedicated SenseTouch release key (not Android Debug)
+Certificate: matches privately backed-up keystore
+APK v2 signature and ZIP CRC: PASS
+Debuggable: false
+Internet permission: absent
+APK bytes: 1525685
+APK SHA256: 3690afbe7fc612fd02233d852cf01f10608b386ec324ae881baad6401f693c5a
+Galaxy / animation runtime checks: not performed; see VALIDATION.md
