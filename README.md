@@ -8,7 +8,7 @@
 
 일부 갤럭시에는 등록한 지문을 추가로 스캔하는 화면이 들어 있지만, 설정 메뉴에서는 보이지 않습니다. SenseTouch는 그 화면에 접근할 수 있도록 만든 작은 앱입니다. 지문을 선택하고 실행하면 이후의 인증과 스캔은 삼성 시스템 화면에서 진행됩니다.
 
-[APK 다운로드](../../releases) · [원본 프로젝트](https://github.com/asdfasdf-asdfasdf/FingerprintAccuracyEnhancer)
+[APK 다운로드](../../releases)
 
 ## 어떤 기능인가요?
 
@@ -76,7 +76,7 @@ Shizuku를 통해 SenseTouch에 시스템 설정 변경 권한을 부여합니�
 
 ## 제작에 관해
 
-이 앱은 [FingerprintAccuracyEnhancer](https://github.com/asdfasdf-asdfasdf/FingerprintAccuracyEnhancer)를 바탕으로 **ChatGPT/Codex를 활용해 제작했습니다.** 화면 구성과 아이콘을 새로 만들고, 기기 확인·권한 안내·설정 복원 처리를 다듬었습니다.
+**SenseTouch는 Adam이 ChatGPT/Codex를 활용해 제작한 앱입니다.** 지문 선택부터 실행까지 간단하게 사용할 수 있도록 화면을 구성하고, 기기 확인과 권한 안내, 설정 복원 기능을 담았습니다.
 
 AI를 코드 작성과 수정, 검토에 활용했습니다. 빌드와 자동 검사를 거쳤지만 모든 갤럭시에서 테스트한 것은 아닙니다. 현재 공개 버전은 **1.0.0**이며, 확인한 범위는 [검증 기록](VALIDATION.md)과 [빌드 결과](validation-summary.txt)에 남겨 두었습니다.
 
@@ -84,9 +84,7 @@ AI를 코드 작성과 수정, 검토에 활용했습니다. 빌드와 자동 �
 
 ## 소스와 라이선스
 
-GPL-3.0-only로 공개합니다. 원본 프로젝트와 그 기반이 된 [Root Activity Launcher](https://github.com/zacharee/RootActivityLauncher)의 출처를 유지하고 있습니다.
-
-라이선스와 의존성 정보는 [LICENSE](LICENSE), [원본 출처](UPSTREAM-SOURCE-NOTICE.md), [라이브러리 고지](THIRD-PARTY-NOTICES.md)를 참고해 주세요.
+GPL-3.0-only로 공개합니다. 자세한 내용은 [라이선스](LICENSE)와 [관련 고지](THIRD-PARTY-NOTICES.md)를 확인해 주세요.
 
 직접 빌드하거나 배포하려면 [배포 안내](RELEASE-BUILD.md)를 확인하세요.
 

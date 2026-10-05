@@ -90,3 +90,5 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 
+
+소스 코드에 관한 저작권 및 출처는 [소스 코드 고지](UPSTREAM-SOURCE-NOTICE.md)를 참고하세요.
